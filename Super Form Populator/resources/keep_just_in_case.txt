@@ -1,0 +1,151 @@
+*!*		DO CASE
+*!*			CASE iImagingVersions = 1
+*!*				iStartingRow = 65
+*!*				
+*!*			CASE iImagingVersions = 2
+*!*				iStartingRow = 123
+*!*				
+*!*			CASE iImagingVersions = 3
+*!*				iStartingRow = 181
+*!*				
+*!*			CASE iImagingVersions = 4
+*!*				iStartingRow = 239
+*!*				
+*!*			CASE iImagingVersions = 5
+*!*				iStartingRow = 297
+*!*				
+*!*			CASE iImagingVersions = 6
+*!*				iStartingRow = 355
+*!*				
+*!*			CASE iImagingVersions = 7
+*!*				iStartingRow = 413
+*!*				
+*!*			CASE iImagingVersions = 8
+*!*				iStartingRow = 471
+*!*				
+*!*			CASE iImagingVersions = 9
+*!*				iStartingRow = 529
+*!*				
+*!*			CASE iImagingVersions = 10
+*!*				iStartingRow = 587
+*!*				
+*!*			CASE iImagingVersions = 11
+*!*				iStartingRow = 645
+*!*				
+*!*			CASE iImagingVersions = 12
+*!*				iStartingRow = 703
+*!*				
+*!*			CASE iImagingVersions = 13
+*!*				iStartingRow = 761
+*!*				
+*!*			CASE iImagingVersions = 14
+*!*				iStartingRow = 819
+*!*				
+*!*			CASE iImagingVersions = 15
+*!*				iStartingRow = 877
+*!*				
+*!*			CASE iImagingVersions = 16
+*!*				iStartingRow = 935
+*!*				
+*!*			CASE iImagingVersions = 17
+*!*				iStartingRow = 993
+*!*				
+*!*			CASE iImagingVersions = 18
+*!*				iStartingRow = 1051
+*!*				
+*!*			CASE iImagingVersions = 19
+*!*				iStartingRow = 1109
+*!*				
+*!*			CASE iImagingVersions = 20
+*!*				iStartingRow = 1167
+*!*				
+*!*			CASE iImagingVersions = 21
+*!*				iStartingRow = 1225
+*!*				
+*!*			CASE iImagingVersions = 22
+*!*				iStartingRow = 1283
+*!*				
+*!*			CASE iImagingVersions = 23
+*!*				iStartingRow = 1341
+*!*				
+*!*			CASE iImagingVersions = 24
+*!*				iStartingRow = 1399
+*!*		ENDCASE
+
+
+
+
+
+*!*		DO CASE
+*!*			CASE iKittingVersions = 1
+*!*				iStartingRow = 85
+*!*				
+*!*			CASE iKittingVersions = 2
+*!*				iStartingRow = 163
+*!*				
+*!*			CASE iKittingVersions = 3
+*!*				iStartingRow = 241
+*!*				
+*!*			CASE iKittingVersions = 4
+*!*				iStartingRow = 319
+*!*				
+*!*			CASE iKittingVersions = 5
+*!*				iStartingRow = 397
+*!*				
+*!*			CASE iKittingVersions = 6
+*!*				iStartingRow = 475
+*!*				
+*!*			CASE iKittingVersions = 7
+*!*				iStartingRow = 553
+*!*				
+*!*			CASE iKittingVersions = 8
+*!*				iStartingRow = 631
+*!*				
+*!*			CASE iKittingVersions = 9
+*!*				iStartingRow = 709
+*!*				
+*!*			CASE iKittingVersions = 10
+*!*				iStartingRow = 787
+*!*				
+*!*			CASE iKittingVersions = 11
+*!*				iStartingRow = 865
+*!*				
+*!*			CASE iKittingVersions = 12
+*!*				iStartingRow = 943
+*!*				
+*!*			CASE iKittingVersions = 13
+*!*				iStartingRow = 1021
+*!*				
+*!*			CASE iKittingVersions = 14
+*!*				iStartingRow = 1099
+*!*				
+*!*			CASE iKittingVersions = 15
+*!*				iStartingRow = 1177
+*!*				
+*!*			CASE iKittingVersions = 16
+*!*				iStartingRow = 1255
+*!*				
+*!*			CASE iKittingVersions = 17
+*!*				iStartingRow = 1333
+*!*				
+*!*			CASE iKittingVersions = 18
+*!*				iStartingRow = 1411
+*!*				
+*!*			CASE iKittingVersions = 19
+*!*				iStartingRow = 1489
+*!*				
+*!*			CASE iKittingVersions = 20
+*!*				iStartingRow = 1567
+*!*				
+*!*			CASE iKittingVersions = 21
+*!*				iStartingRow = 1645
+*!*				
+*!*			CASE iKittingVersions = 22
+*!*				iStartingRow = 1723
+*!*				
+*!*			CASE iKittingVersions = 23
+*!*				iStartingRow = 1801
+*!*				
+*!*			CASE iKittingVersions = 24
+*!*				iStartingRow = 1879
+*!*		ENDCASE
